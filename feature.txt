@@ -3,11 +3,3 @@ ggfg
 
 
 
-*Work Completed Today*
-Today I have learned command like git branch,git push,git pull ,git fetch and git merge.
-Also worked git basic examples for previously learned commands.
-
-*Work Planned Tomorrow*
-Will work with example above command and learn advance topic like git diff,git revert,etc.
-
-
