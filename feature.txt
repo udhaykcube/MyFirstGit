@@ -11,33 +11,3 @@ Also worked git basic examples for previously learned commands.
 Will work with example above command and learn advance topic like git diff,git revert,etc.
 
 
-*Work Completed Today*
-Michael told disable login function for geonetwork source csw url in NV machine.
-
-Then he told two modification in skype. 
-We need display  createdate and publishdate for geoentwork target in report.
-Also display  metagisimportdate and publishdate for gde metagisdata and mv in report.
-Also create wiki page for this tool.
-
-*Work Planned Tommorrow*
-I will implement changes mentioned in the ticket and create wiki page for this tool.
-
-
-#1678 Tool to compare instances of GN and GDE
-Michael told disable login function for geonetwork source csw url in NV machine.
-
-Then he told two modification in skype. 
-We need display  createdate and publishdate for geoentwork target in report.
-Also display  metagisimportdate and publishdate for gde metagisdata and mv in report.
-Also create wiki page for this tool.
-
-#1678 Tool to compare instances of GN and GDE
-I will implement changes mentioned in the ticket and create wiki page for this tool.
-
-
-#1681 Learn git
-Today I have learned command like git branch,git push,git pull ,git fetch and git merge.
-Also worked git basic examples for previously learned commands.
-
-#1681 Learn git
-Will work with example above command and learn advance topic like git diff,git revert,etc.
